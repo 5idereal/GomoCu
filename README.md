@@ -1,0 +1,2 @@
+# GomoCu
+Gomoku in C
